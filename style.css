@@ -28,19 +28,19 @@ body {
 }
 
 #one {
-  background-image :url('https://source.unsplash.com/fEL18vax1HE');
+  background-image :url('https://images.unsplash.com/photo-1483114207198-9162fa6c3d2d?dpr=1&auto=format&fit=crop&w=1000&h=1000');
 }
 
 #two {
-  background-image: url('https://source.unsplash.com/a7XUtljVEMc');
+  background-image: url('https://images.unsplash.com/photo-1461009209120-103a8f970745?dpr=1&auto=format&fit=crop&w=1000&h=1000');
 }
 
 #three {
-  background-image: url('https://source.unsplash.com/OgoCiyXSwUE');
+  background-image: url('https://images.unsplash.com/photo-1500278170415-daa5b83e9443?dpr=1&auto=format&fit=crop&w=1000&h=1000');
 }
 
 #four {
-  background-image: url('https://source.unsplash.com/P2vi01BW8vE');
+  background-image: url('https://images.unsplash.com/photo-1504217051514-96afa06398be?dpr=1&auto=format&fit=crop&w=1000&h=1000');
 }
 
 .panel * {
