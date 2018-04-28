@@ -1,3 +1,3 @@
 # Flex Panels #
-Java Script flex panels for the #JavaScript30 challenge.
-Click on each panel to open it up
+A JavaScript project as part of the [#JavaScript30](https://javascript30.com/) challenge.
+Click on the panels to open them up.
